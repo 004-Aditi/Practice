@@ -1,0 +1,3 @@
+Hello
+Learning git and github
+It seems fun
